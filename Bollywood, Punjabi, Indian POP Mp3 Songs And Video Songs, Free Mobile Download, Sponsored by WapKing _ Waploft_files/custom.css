@@ -1,0 +1,18 @@
+/*
+* Added by developer
+*/
+.wrapper .topadvt{margin-bottom: 7px;}
+.wrapper .bottomadvt{margin-top: 30px;}
+.wrapper .download-middle-advt{margin-bottom: 6px;margin-top: 6px;}
+.pagination li:first-child a, .pagination li:last-child a {padding: 4px 10px !important;}
+
+.ad1{background:#CCC;color:#FFF;}
+.ad2{color:#FFF;font-weight:bold;}
+.ad3{background:#CCC}
+.adBold{font-weight:bold;}
+.adLinkBold a{font-weight:bold;}
+.tCenter{text-align: center;}
+.red{background:#c71313}
+.orange{background:#ce5043}
+
+.w100{width: 100%}
