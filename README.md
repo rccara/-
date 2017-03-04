@@ -1,2 +1,0 @@
-# waploft
-By Alok Kumar
